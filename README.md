@@ -143,5 +143,4 @@ Before running this application, you need to have the following software install
 
 * Web application that displays the results of Stream Data Analytics in real time
 
-
-[Ma vidéo4.mp4](Ma%20vidéo4.mp4)
+[m](Ma%20vidéo.gif)
