@@ -142,5 +142,5 @@ Before running this application, you need to have the following software install
 
 
 * Web application that displays the results of Stream Data Analytics in real time
-
-[m](Ma%20vidéo.gif)
+![img_14.png](img_14.png)
+* ![img_15.png](img_15.png)
